@@ -1,5 +1,9 @@
 # ProgArk-TD
 
+** This is a copy of the original repo **
+
+original: [ProgArk-TD](https://github.com/Hoyby/ProgArk-TD)
+
 ## Setup
  - Download the latest version of Android Studio from https://developer.android.com/studio
  - In Android Studio, create a new project from version control, by pressing New -> Project from Version Control.
